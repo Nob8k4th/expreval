@@ -1,0 +1,13 @@
+README.md
+setup.py
+expreval/__init__.py
+expreval/evaluator.py
+expreval/lexer.py
+expreval/parser.py
+expreval.egg-info/PKG-INFO
+expreval.egg-info/SOURCES.txt
+expreval.egg-info/dependency_links.txt
+expreval.egg-info/top_level.txt
+tests/test_evaluator.py
+tests/test_lexer.py
+tests/test_parser.py
